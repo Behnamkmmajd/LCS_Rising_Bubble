@@ -79,7 +79,11 @@ and `Run/LAVD2D/<case>/`.
 ## Sample data
 
 The included case `3_2D_Ga60_Bo65_SD0_0_DR100_VR100` only ships with snapshots
-60 to 578, which is enough for the default FTLE run (178 to 578) and LAVD run
+60 to 578 that can be downloaded from here. 
+
+https://drive.google.com/file/d/1eEXdovTu2ZgeVJYX_UvQcEVYxIrJa7zR/view?usp=drive_link
+
+This dataset is enough for the default FTLE run (178 to 578) and LAVD run
 (60 to 330). To use snapshots outside that range, copy the matching
 `Stacked_<i>.bin` files into `database/<case>/` and `database/<case>/Phi/`.
 
